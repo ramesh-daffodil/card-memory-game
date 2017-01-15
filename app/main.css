@@ -1,0 +1,16 @@
+img {
+	margin: 5px;
+	border-radius: 3px;
+}
+fieldset {
+    width: 47%;
+    text-align: center;
+    float: left;
+}
+button {
+	margin: 5px;
+}
+td,th {
+	min-width: 100px;
+	text-align: center;
+}

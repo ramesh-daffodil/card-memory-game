@@ -1,29 +1,12 @@
-# DPOrganizer React Boilerplate
+# card-memory-game
 
-[![Build Status](https://travis-ci.org/DPOrganizer/react-boilerplate.svg?branch=master)](https://travis-ci.org/DPOrganizer/react-boilerplate)
+##TODO
+- Swagger Documentation
+- High Score is stored client side. Once you refresh, all the data is refreshed
+- Unit Tests
 
-This is a very simple React boilerplate setup. It includes a basic starting point which you can start building from.
+##installation
 
-## Requirements
-
-Install `yarn`, read how [here](https://yarnpkg.com/en/docs/install).
-
-## Installation
-
-Run the following commands:
-
-1. `git clone git@github.com:DPOrganizer/react-boilerplate.git`
-2. `cd react-boilerplate`
-3. `yarn install`
-
-To start the application you can now run: `yarn start`
-
-## Available commands
-
-- `yarn lint` Run code linting
-- `yarn test` Run tests using jest
-- `yarn test-coverage` Run tests using jest and display coverage
-- `yarn build` Bundle the application
-- `yarn start` Run the development environment
-- `yarn deploy` Build the application in production mode
-- `yarn deploy-windows` Build the application in production mode under Windows
+- `npm install` To install all the packages.
+- `npm start` To start the server
+- Now open `localhost: 8080` in the browser.

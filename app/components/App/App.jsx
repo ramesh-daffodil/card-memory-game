@@ -62,6 +62,7 @@ class App extends React.Component {
 				} else {
 					this.setState((state) => {
 						state.matched++;
+						state.recentCard = null;
 						return state;
 					});
 				}
